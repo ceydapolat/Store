@@ -1,0 +1,15 @@
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/bin/Debug/net7.0/Repositories.deps.json
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/bin/Debug/net7.0/Repositories.dll
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/bin/Debug/net7.0/Repositories.pdb
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/bin/Debug/net7.0/Entities.dll
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/bin/Debug/net7.0/Entities.pdb
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.csproj.AssemblyReference.cache
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.AssemblyInfoInputs.cache
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.AssemblyInfo.cs
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.csproj.CoreCompileInputs.cache
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.csproj.CopyComplete
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.dll
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/obj/Debug/net7.0/refint/Repositories.dll
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.pdb
+/Users/ceydapolat/Development/VSCode/MVC/Store/Repositories/obj/Debug/net7.0/ref/Repositories.dll

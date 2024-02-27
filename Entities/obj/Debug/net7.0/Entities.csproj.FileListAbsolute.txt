@@ -1,0 +1,12 @@
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/bin/Debug/net7.0/Entities.dll
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/obj/Debug/net7.0/Entities.dll
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/ceydapolat/Development/VSCode/MVC/Store/Entities/obj/Debug/net7.0/ref/Entities.dll
